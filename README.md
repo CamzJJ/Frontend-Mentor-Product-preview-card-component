@@ -7,14 +7,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -32,13 +31,13 @@ Users should be able to:
 ![](./screenshot2.png)
 
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
+
+  I first planned out my build. What was going to go where, how I wanted to group everything together in the HTML and how I was going to use CSS to position everything and style them.
+
+  Once I Had an idea of how I was going to put everything together I then began to structure every thing in the HTML.
+
+  Finally I moved on to the CSS to style and position everything according to the design.
 
 ### Built with
 
@@ -48,28 +47,29 @@ Users should be able to:
 
 ### What I learned
 
-
+What I learned by through this challenge was use of the command line to push and pull my work to and from github whist also practicing basic HTML and CSS.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I want to improve my skill on the command line to manage versions of my work along with using compilers like scss to improve my speed.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I also use EMs, REMs, and % instead of fixed measurements like PXs for better responsive designs
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [HTML & CSS Course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) - This is a great course for beginners to get their feet wet with some HTML and CSS. Gave me all the knowledge I needed to start my journey in web-development.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [MDN](https://developer.mozilla.org/en-US/) - great resource.
+
+- [Github Docs](https://docs.github.com/en) - How to use Github.
+
+- [Git Cheat Sheet](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://education.github.com/git-cheat-sheet-education.pdf) - Github's command line cheat sheet.
+
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@CamzJJ](https://www.frontendmentor.io/profile/CamzJJ)
+- Twitter - [@CameronLaudat](https://twitter.com/CameronLaudat)
+- LinkedIn - [Cameron Laudat](https://www.linkedin.com/in/cameron-l-83a518a4/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
 
