@@ -35,7 +35,7 @@ Users should be able to:
 
   I first planned out my build. What was going to go where, how I wanted to group everything together in the HTML and how I was going to use CSS to position everything and style them.
 
-  Once I Had an idea of how I was going to put everything together I then began to structure every thing in the HTML.
+  Once I Had an idea of how I was going to put everything together I then began to structure everything in the HTML.
 
   Finally I moved on to the CSS to style and position everything according to the design.
 
@@ -49,11 +49,11 @@ Users should be able to:
 
 What I learned by through this challenge was use of the command line to push and pull my work to and from github whist also practicing basic HTML and CSS.
 
+I also use EMs, REMs, and % instead of fixed measurements like PXs for better responsive designs
+
 ### Continued development
 
 I want to improve my skill on the command line to manage versions of my work along with using compilers like scss to improve my speed.
-
-I also use EMs, REMs, and % instead of fixed measurements like PXs for better responsive designs
 
 ### Useful resources
 
@@ -63,7 +63,7 @@ I also use EMs, REMs, and % instead of fixed measurements like PXs for better re
 
 - [Github Docs](https://docs.github.com/en) - How to use Github.
 
-- [Git Cheat Sheet](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://education.github.com/git-cheat-sheet-education.pdf) - Github's command line cheat sheet.
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - Github's command line cheat sheet.
 
 
 ## Author
