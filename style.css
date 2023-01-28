@@ -52,6 +52,7 @@
 }
 .card__subheading {
   font-family: "Montserrat", sans-serif;
+  font-size: 0.8rem;
   letter-spacing: 0.25em;
   font-weight: 500;
   text-transform: uppercase;
@@ -59,6 +60,7 @@
 }
 .card__heading {
   font-family: "Fraunces", serif;
+  line-height: 1;
   font-size: 2rem;
   color: hsl(212, 21%, 14%);
   margin-bottom: 0.5em;
@@ -85,6 +87,9 @@
   padding: 1em;
 }
 .card__button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border: none;
   font-family: "Montserrat", sans-serif;
   cursor: pointer;
@@ -97,6 +102,11 @@
   background-color: hsl(158, 36%, 37%);
   color: hsl(0, 0%, 100%);
 }
+
+.card__button-icon {
+  margin-right: 0.4em;
+}
+
 .card__button:hover,
 .card__button:active {
   background-color: hsl(212, 21%, 14%);
